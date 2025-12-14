@@ -1,4 +1,3 @@
--- SeizureUI.lua
 local SeizureUI = {}
 SeizureUI.__index = SeizureUI
 
